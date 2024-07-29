@@ -1,0 +1,4 @@
+com\mycompany\peliculaapp\Main.class
+com\mycompany\peliculaapp\Pelicula.class
+com\mycompany\peliculaapp\Conexion.class
+com\mycompany\peliculaapp\ControladoraPersistencia.class
